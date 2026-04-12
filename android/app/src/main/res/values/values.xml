@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url">https://appflutter-cfab6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">549758506831</string>
+    <string name="google_app_id">1:549758506831:android:02c688403ff9495991573a</string>
+    <string name="google_api_key">AIzaSyD3VCnXn_mFPzLin02AdIBarQYB7djKcEM</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD3VCnXn_mFPzLin02AdIBarQYB7djKcEM</string>
+    <string name="google_storage_bucket">appflutter-cfab6.firebasestorage.app</string>
+    <string name="project_id">appflutter-cfab6</string>
+</resources>

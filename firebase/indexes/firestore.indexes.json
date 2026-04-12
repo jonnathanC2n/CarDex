@@ -1,0 +1,36 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "cars",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ownerId",
+          "order": "ASCENDING",
+          "query": "EQUAL"
+        },
+        {
+          "fieldPath": "createdAt",
+          "order": "DESCENDING",
+          "query": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "ratings",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "carId",
+          "order": "ASCENDING",
+          "query": "EQUAL"
+        },
+        {
+          "fieldPath": "userId",
+          "order": "ASCENDING",
+          "query": "EQUAL"
+        }
+      ]
+    }
+  ]
+}
