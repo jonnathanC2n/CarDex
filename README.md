@@ -25,3 +25,9 @@ flutter run
 - `lib/services/` - Serviços (Auth, Car, Rating)
 - `lib/screens/` - Telas
 - `lib/widgets/` - Widgets reutilizáveis
+
+## Imagens
+![Texto Alternativo](imgs/Captura de tela 2026-04-12 205608.png)
+![Texto Alternativo](imgs/Captura de tela 2026-04-12 205542.png)
+![Texto Alternativo](imgs/Captura de tela 2026-04-12 205518.png)
+![Texto Alternativo](imgs/Captura de tela 2026-04-12 205428.png)
